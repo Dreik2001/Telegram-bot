@@ -114,8 +114,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-
-
-TOKEN = '1080322073:AAH09GT3NmbcI5vH_N79fySD0agU93ivCDY'
-
-PROXY_URL = 'https://telegg.ru/orig/bot'
